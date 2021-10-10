@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- [solution URL](https://www.frontendmentor.io/solutions/flexbox-css-grid-5uQng-WBF)
+- [live site](https://cornelldev.github.io/Fylo-landing-page/)
 
 ## My process
 
